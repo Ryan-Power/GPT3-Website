@@ -3,8 +3,7 @@
 This is a GitHub repository for a React website that showcases the capabilities of OpenAI's GPT-3 language model. The website provides an interface where users can interact with GPT-3 and witness its natural language processing abilities.
 
 
-## Demo
-You can check out the live demo of the GPT-3 React Website [here](https://example.com).
+
 
 ## Features
 - **GPT-3 Text Generation**: Users can enter prompts or questions, and GPT-3 will generate text-based responses.
